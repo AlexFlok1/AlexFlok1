@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexFlok
 - 👀 I’m interested in JavaScript 
-- 🌱 I’m currently learning Ionic and Svelte
+- 🌱 I’m currently learning Flutter and Svelte
 - 📫 How to reach me? Just send me an email on alexflok2018@gmail.com
 
 <!---

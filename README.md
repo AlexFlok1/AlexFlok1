@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexFlok
-- 👀 I’m interested in JavaScript 
+- 👀 I’m interested in JavaScript and TypeScript 
 - 🌱 I’m currently learning Ruby on Rails, Go and Svelte
 - 📫 How to reach me? Just send me an email on alexflok2018@gmail.com
 

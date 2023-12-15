@@ -8,5 +8,5 @@ AlexFlok1/AlexFlok1 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=alexflok1&count_private=true&show_icons=true&locale=en&layout=compact)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexflok1&count_private=true&showicons=true)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=alexflok1&show_icons=true&locale=en&layout=compact)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexflok1&showicons=true)]()

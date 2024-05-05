@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexFlok
-- 👀 I’m interested in JavaScript and TypeScript 
-- 🌱 I’m currently learning Ruby on Rails, Go and Svelte
+- 👀 I’m interested in TypeScript, Node and React 
+- 🌱 I’m currently learning Go and Python
 - 📫 How to reach me? Just send me an email on alexflok2018@gmail.com
 
 <!---

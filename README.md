@@ -8,4 +8,4 @@ AlexFlok1/AlexFlok1 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexflok1&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexflok1&layout=compact&hide_border=true)](https://github-stats-mu-nine.vercel.app/api/top-langs/?username=alexflok1&layout=compact)
